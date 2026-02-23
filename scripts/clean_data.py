@@ -1,6 +1,5 @@
 """
 Data Cleaning Script
-Author: YOUR_NAME
 Description: Cleans raw sales dataset and exports an analysis-ready CSV.
 
 Input:  data/raw_sales_data.csv
@@ -44,7 +43,7 @@ def standardize_product(product: str) -> str:
 
 
 def main() -> None:
-    root = Path(__file__).resolve().parents[1]  # repo root (scripts/..)
+    root = Path(__file__).resolve().parents[1]  
     in_path = root / "data" / "raw_sales_data.csv"
     out_dir = root / "cleaned"
     out_path = out_dir / "clean_sales_data.csv"
