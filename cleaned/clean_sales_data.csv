@@ -1,0 +1,16 @@
+order_id,customer_name,city,product,price,quantity,order_date,revenue,quantity_was_missing
+1001,Alice,London,Laptop,1200,1.0,2023-06-01,1200.0,False
+1002,Bob,Paris,Pen,5,10.0,2023-06-03,50.0,False
+1003,Charlie,Berlin,Phone,800,2.0,2023-06-05,1600.0,False
+1004,Alice,London,Headphones,200,1.0,2023-06-07,200.0,False
+1005,Eva,Rome,Chair,150,4.0,2023-06-08,600.0,False
+1006,Frank,Athens,Desk,300,1.0,2023-06-09,300.0,True
+1007,Bob,Paris,Tablet,450,1.0,2023-06-11,450.0,False
+1008,Grace,Paris,Laptop,1200,1.0,2023-06-13,1200.0,False
+1009,Helen,London,Notebook,10,5.0,2023-06-14,50.0,False
+1010,Ivan,Berlin,Phone,800,1.0,2023-06-15,800.0,False
+1011,Judy,Rome,Pen,5,20.0,2023-06-16,100.0,False
+1012,David,Madrid,Desk,300,2.0,2023-06-18,600.0,False
+1013,Charlie,Berlin,Headphones,200,1.0,2023-06-19,200.0,False
+1014,Eva,Rome,Laptop,1200,1.0,2023-06-20,1200.0,False
+1015,Frank,Athens,Chair,150,2.0,2023-06-21,300.0,False
